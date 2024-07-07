@@ -1,4 +1,3 @@
-![Screenshot 2024-07-06 195943](https://github.com/nikhilarsid/reactapp/assets/128669883/ad089ab9-689f-4f17-bc65-18b31ed9f468)
 # Food App
 This project is a food app that **dynamically fetches** data from the **Swiggy API** to provide real-time information about restaurants, menus, and more.
 ## Features
