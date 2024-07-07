@@ -15,3 +15,4 @@ This project is a food app that **dynamically fetches** data from the **Swiggy A
 ![Screenshot 2024-07-06 195858](https://github.com/nikhilarsid/reactapp/assets/128669883/a54b1447-d48b-402f-b65b-ecae5b0e4729)
 ![Screenshot 2024-07-06 195753](https://github.com/nikhilarsid/reactapp/assets/128669883/4a38013e-14b4-4fbc-8098-cf6f66a0ffe1)
 ![Screenshot 2024-07-06 195911](https://github.com/nikhilarsid/reactapp/assets/128669883/3bfbb0d3-ab68-4d26-bf64-482e714106a7)
+![Screenshot 2024-07-06 200040](https://github.com/nikhilarsid/reactapp/assets/128669883/213dfbe2-9cf5-4cf5-a9d3-4d76207f29b9)
